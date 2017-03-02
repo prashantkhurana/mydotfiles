@@ -32,3 +32,4 @@ endfunction
 command! -nargs=0 RemoveConflictingAlignMaps call s:RemoveConflictingAlignMaps()
 silent! autocmd VimEnter * RemoveConflictingAlignMaps
 set diffopt+=vertical
+set guifont=Monaco:h18
