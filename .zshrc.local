@@ -1,0 +1,8 @@
+source ~/.bash_profile
+source ~/.profile
+
+
+#if you have rust installed set the below  variable
+export RUST_SRC_PATH=/Users/prashant/code/rust/src
+# if you have autojump installed then the below line
+[ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh
