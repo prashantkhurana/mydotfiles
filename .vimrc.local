@@ -33,3 +33,7 @@ command! -nargs=0 RemoveConflictingAlignMaps call s:RemoveConflictingAlignMaps()
 silent! autocmd VimEnter * RemoveConflictingAlignMaps
 set diffopt+=vertical
 set guifont=Monaco:h18
+if has("gui_macvim")
+    let macvim_hig_shift_movement = 1
+endif
+set splitright
