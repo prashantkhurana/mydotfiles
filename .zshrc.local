@@ -8,3 +8,13 @@ export RUST_SRC_PATH=/Users/prashant/code/rust/src
 [ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh
 bindkey "^[^[[D" backward-word
 bindkey "^[^[[C" forward-word
+
+unalias grh
+
+function grh() {
+  git reset --hard $1
+}
+
+function grs() {
+  git reset --soft $1
+}
