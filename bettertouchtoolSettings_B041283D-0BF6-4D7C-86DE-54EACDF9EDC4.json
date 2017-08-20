@@ -1,0 +1,741 @@
+{
+  "BTTPresetName" : "bettertouchtoolSettings_B041283D-0BF6-4D7C-86DE-54EACDF9EDC4",
+  "BTTPresetUUID" : "7E21B153-EAED-4941-AAEF-BC8870C86818",
+  "BTTPresetContent" : [
+    {
+      "BTTAppBundleIdentifier" : "org.vim.MacVim",
+      "BTTAppName" : "MacVim",
+      "BTTAppSpecificSettings" : {
+
+      },
+      "BTTTriggers" : [
+        {
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTShortcutToSend" : "56,55,30",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 124,
+          "BTTShortcutModifierKeys" : 1048576,
+          "BTTOrder" : 40,
+          "BTTKeySequence" : {
+
+          }
+        },
+        {
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTShortcutToSend" : "56,55,33",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 123,
+          "BTTShortcutModifierKeys" : 1048576,
+          "BTTOrder" : 41,
+          "BTTKeySequence" : {
+
+          }
+        }
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "com.apple.finder",
+      "BTTAppName" : "Finder",
+      "BTTAppSpecificSettings" : {
+
+      },
+      "BTTTriggers" : [
+
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "org.mozilla.firefox",
+      "BTTAppName" : "Firefox-Mac-Sync",
+      "BTTAppSpecificSettings" : {
+
+      },
+      "BTTTriggers" : [
+        {
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTShortcutToSend" : "58,55,123",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 123,
+          "BTTShortcutModifierKeys" : 1048576,
+          "BTTOrder" : 1
+        },
+        {
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTShortcutToSend" : "58,55,124",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 124,
+          "BTTShortcutModifierKeys" : 1048576,
+          "BTTOrder" : 0
+        }
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "org.mozilla.nightly",
+      "BTTAppName" : "FirefoxNightly",
+      "BTTAppSpecificSettings" : {
+
+      },
+      "BTTTriggers" : [
+        {
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTShortcutToSend" : "58,55,123",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 123,
+          "BTTShortcutModifierKeys" : 1048576,
+          "BTTOrder" : 1,
+          "BTTKeySequence" : {
+
+          }
+        },
+        {
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTShortcutToSend" : "58,55,124",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 124,
+          "BTTShortcutModifierKeys" : 1048576,
+          "BTTOrder" : 0,
+          "BTTKeySequence" : {
+
+          }
+        }
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "BT.G",
+      "BTTAppName" : "Global",
+      "BTTAppSpecificSettings" : {
+
+      },
+      "BTTTriggers" : [
+        {
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 97,
+          "BTTPredefinedActionName" : "Center Window",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 8,
+          "BTTShortcutModifierKeys" : 1310720,
+          "BTTOrder" : 9
+        },
+        {
+          "BTTTriggerType" : 1004,
+          "BTTTriggerTypeDescription" : "Button 4",
+          "BTTTriggerClass" : "BTTTriggerTypeNormalMouse",
+          "BTTPredefinedActionType" : 49,
+          "BTTPredefinedActionName" : "Open Application \/ File \/ Apple Script …",
+          "BTTLaunchPath" : "file:\/\/\/Users\/PKhurana\/eclipse\/java-neon\/Eclipse.app",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 0
+        },
+        {
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 91,
+          "BTTPredefinedActionName" : "Resize Window to Bottom Left Quarter \/ Corner",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 125,
+          "BTTShortcutModifierKeys" : 1310720,
+          "BTTOrder" : 10
+        },
+        {
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 93,
+          "BTTPredefinedActionName" : "Resize Window to Bottom Right Quarter \/ Corner",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 126,
+          "BTTShortcutModifierKeys" : 1310720,
+          "BTTOrder" : 11
+        },
+        {
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 174,
+          "BTTPredefinedActionName" : "Resize window to Left Two Thirds",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 123,
+          "BTTShortcutModifierKeys" : 1310720,
+          "BTTOrder" : 12
+        },
+        {
+          "BTTTriggerType" : 117,
+          "BTTTriggerTypeDescription" : "Rotate Left",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "58,55,123",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 0
+        },
+        {
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 21,
+          "BTTPredefinedActionName" : "Maximize Window",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 46,
+          "BTTShortcutModifierKeys" : 1310720,
+          "BTTOrder" : 3
+        },
+        {
+          "BTTTriggerType" : 1003,
+          "BTTTriggerTypeDescription" : "Button 3",
+          "BTTTriggerClass" : "BTTTriggerTypeNormalMouse",
+          "BTTPredefinedActionType" : 49,
+          "BTTPredefinedActionName" : "Open Application \/ File \/ Apple Script …",
+          "BTTLaunchPath" : "file:\/\/\/Applications\/Firefox.app",
+          "BTTEnabled" : 1,
+          "BTTRequiredModifierKeys" : 1048576,
+          "BTTOrder" : 3
+        },
+        {
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 175,
+          "BTTPredefinedActionName" : "Resize window to Right Two Thirds",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 124,
+          "BTTShortcutModifierKeys" : 1310720,
+          "BTTOrder" : 13
+        },
+        {
+          "BTTTriggerType" : 1003,
+          "BTTTriggerTypeDescription" : "Button 3",
+          "BTTTriggerClass" : "BTTTriggerTypeNormalMouse",
+          "BTTPredefinedActionType" : 49,
+          "BTTPredefinedActionName" : "Open Application \/ File \/ Apple Script …",
+          "BTTLaunchPath" : "file:\/\/\/Applications\/Spotify.app",
+          "BTTEnabled" : 1,
+          "BTTRequiredModifierKeys" : 524288,
+          "BTTOrder" : 2
+        },
+        {
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 58,
+          "BTTPredefinedActionName" : "Search Selected Text With Google",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 5,
+          "BTTShortcutModifierKeys" : 1310720,
+          "BTTOrder" : 2
+        },
+        {
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 163,
+          "BTTPredefinedActionName" : "Open Native OS X Split View for Window (Left)",
+          "BTTEnabled" : 0,
+          "BTTShortcutKeyCode" : 1,
+          "BTTShortcutModifierKeys" : 1441792,
+          "BTTOrder" : 1
+        },
+        {
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 169,
+          "BTTPredefinedActionName" : "Capture Screenshot (Configurable)",
+          "BTTScreenshotOptions" : "-i;;-o;;-c;;-t;;png;;\/Users\/PKhurana\/Pictures\/Screenshot_{datetime}_{random}.png;;",
+          "BTTScreenshotDateFormat" : "yyyy-MM-dd HH.mm.ss",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 1,
+          "BTTShortcutModifierKeys" : 1441792,
+          "BTTOrder" : 4
+        },
+        {
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 47,
+          "BTTPredefinedActionName" : "Move Window to Next Monitor",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 13,
+          "BTTShortcutModifierKeys" : 1310720,
+          "BTTOrder" : 0
+        },
+        {
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 19,
+          "BTTPredefinedActionName" : "Maximize Window Left",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 37,
+          "BTTShortcutModifierKeys" : 1310720,
+          "BTTOrder" : 5
+        },
+        {
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 20,
+          "BTTPredefinedActionName" : "Maximize Window Right",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 15,
+          "BTTShortcutModifierKeys" : 1310720,
+          "BTTOrder" : 6
+        },
+        {
+          "BTTTriggerType" : 118,
+          "BTTTriggerTypeDescription" : "Rotate Right",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "58,55,124",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 1
+        },
+        {
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 95,
+          "BTTPredefinedActionName" : "Maximize Window to Bottom Half",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 11,
+          "BTTShortcutModifierKeys" : 1310720,
+          "BTTOrder" : 7
+        },
+        {
+          "BTTTriggerType" : 1003,
+          "BTTTriggerTypeDescription" : "Button 3",
+          "BTTTriggerClass" : "BTTTriggerTypeNormalMouse",
+          "BTTPredefinedActionType" : 49,
+          "BTTPredefinedActionName" : "Open Application \/ File \/ Apple Script …",
+          "BTTLaunchPath" : "file:\/\/\/Applications\/FirefoxNightly.app",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 1
+        },
+        {
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 96,
+          "BTTPredefinedActionName" : "Maximize Window to Top Half",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 17,
+          "BTTShortcutModifierKeys" : 1310720,
+          "BTTOrder" : 8
+        }
+      ]
+    }
+  ],
+  "BTTPresetSnapAreas" : [
+    {
+      "BTTDisplayID" : 478275678,
+      "BTTDisplayIsMain" : 1,
+      "BTTDisplayModel" : 1382,
+      "BTTDisplayResolution" : "{3840, 1600}",
+      "BTTDisplayScreenFrame" : "{{0, 0}, {3840, 1600}}",
+      "BTTDisplayScreenSize" : "{878.70268950591219, 366.12612062746342}",
+      "BTTDisplaySerialNumber" : "1898426846",
+      "BTTDisplayVendorID" : 1138,
+      "BTTDisplaySnappedDragpoints" : [
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{3439.9000000000001, 1341.71875}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{2842, 777}, {1173, 799}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "E9F2224F-D932-4772-8008-348E9D928C06",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{0, 752.87109375}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{-0, 0}, {1068, 1577}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "D35E741F-F369-4518-8605-D199C530D1EE",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{1773, 485}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaLabelData" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBKwtDZW50ZXIgQmlnCoaEAmlJAQuShISEDE5TRGljdGlvbmFyeQCUhAFpApKElpYGTlNGb250hpKEhIQGTlNGb250HpSZJIQFWzM2Y10GAAAAGgAAAP\/+LgBTAEYATgBTAEQAaQBzAHAAbABhAHkAAACEAWYZhAFjAJ0BnQCdAIaShJaWEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBBOU1BhcmFncmFwaFN0eWxlAJSEBENDQFMEAIUAhoaG",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{679, 0}, {2521, 1577}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "AB029923-7237-4A1D-B985-46BF5B3AACB7",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{715, 753}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaLabelData" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBKwlMZWZ0IEJpZwqGhAJpSQEJkoSEhAxOU0RpY3Rpb25hcnkAlIQBaQKShJaWBk5TRm9udIaShISEBk5TRm9udB6UmSSEBVszNmNdBgAAABoAAAD\/\/i4AUwBGAE4AUwBEAGkAcwBwAGwAYQB5AAAAhAFmGYQBYwCdAZ0AnQCGkoSWlhBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCUhARDQ0BTBACFAIaGhg==",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{-0, 0}, {1679, 1577}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "C919CF7C-0135-45A4-A859-B7F023635CF9",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{1769, 177}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaLabelData" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBKxZMZWZ0IHRvIHJpZ2h0LiBCaWdnZXN0hoQCaUkBFpKEhIQMTlNEaWN0aW9uYXJ5AJSEAWkCkoSWlgZOU0ZvbnSGkoSEhAZOU0ZvbnQelJkkhAVbMzZjXQYAAAAaAAAA\/\/4uAFMARgBOAFMARABpAHMAcABsAGEAeQAAAIQBZhmEAWMAnQGdAJ0AhpKElpYQTlNQYXJhZ3JhcGhTdHlsZYaShISEEE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwQAhQCGhoY=",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{679, 0}, {3159, 1577}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "3FA52C75-5C0D-4513-93A5-5E8B134E95ED",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{0, 1404}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaLabelData" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBKwtMZWZ0IGNvcm5lcoaEAmlJAQuShISEDE5TRGljdGlvbmFyeQCUhAFpApKElpYQTlNQYXJhZ3JhcGhTdHlsZYaShISEEE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwQAhQCGkoSWlgZOU0ZvbnSGkoSEhAZOU0ZvbnQelJkkhAVbMzZjXQYAAAAaAAAA\/\/4uAFMARgBOAFMARABpAHMAcABsAGEAeQAAAIQBZhmEAWMAnwGfAJ8AhoaG",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{0, 899}, {687, 678}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "8A91157E-2E7F-4B80-8FBD-4FFD11C1A3D7",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{1770, 1000}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{-15, 0}, {699, 898}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "95054C25-DC3E-472D-9F97-E5C027D9E2DE",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{3439.9000000000001, 791.8359375}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{2842, 0}, {1173, 1577}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "019AE0BA-43FB-4AB2-AED4-DD95670BD7E8",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{3439.9000000000001, 108.8125}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{2841, -660}, {998, 1443}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "9A42066A-08B6-4816-854C-5A11E51356AD",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{1234, 754}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaLabelData" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBKwxMZWZ0IGJpZ2dlcgqGhAJpSQEMkoSEhAxOU0RpY3Rpb25hcnkAlIQBaQKShJaWBk5TRm9udIaShISEBk5TRm9udB6UmSSEBVszNmNdBgAAABoAAAD\/\/i4AUwBGAE4AUwBEAGkAcwBwAGwAYQB5AAAAhAFmGYQBYwCdAZ0AnQCGkoSWlhBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCUhARDQ0BTBACFAIaGhg==",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{-0, 0}, {2367, 1577}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "3A28E9F0-51B1-43D1-900D-0F2D5E7D47AA",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{2649, 801}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaLabelData" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBKwpSaWdodCBCaWcKhoQCaUkBCpKEhIQMTlNEaWN0aW9uYXJ5AJSEAWkCkoSWlgZOU0ZvbnSGkoSEhAZOU0ZvbnQelJkkhAVbMzZjXQYAAAAaAAAA\/\/4uAFMARgBOAFMARABpAHMAcABsAGEAeQAAAIQBZhmEAWMAnQGdAJ0AhpKElpYQTlNQYXJhZ3JhcGhTdHlsZYaShISEEE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwQAhQCGhoY=",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{1680, 0}, {2150, 1577}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "2992F99E-C9D7-4673-BE22-4870B5399CDF",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{0, 71.50390625}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{5, -2}, {679, 898}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "701F25F5-E1AF-4890-9778-B39FCCC8B33A",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        }
+      ],
+      "BTTDisplayDisplayedDragpoints" : [
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{3439.9000000000001, 1341.71875}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{2842, 777}, {1173, 799}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "E9F2224F-D932-4772-8008-348E9D928C06",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{0, 752.87109375}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{-0, 0}, {1068, 1577}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "D35E741F-F369-4518-8605-D199C530D1EE",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{1773, 485}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaLabelData" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBKwtDZW50ZXIgQmlnCoaEAmlJAQuShISEDE5TRGljdGlvbmFyeQCUhAFpApKElpYGTlNGb250hpKEhIQGTlNGb250HpSZJIQFWzM2Y10GAAAAGgAAAP\/+LgBTAEYATgBTAEQAaQBzAHAAbABhAHkAAACEAWYZhAFjAJ0BnQCdAIaShJaWEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBBOU1BhcmFncmFwaFN0eWxlAJSEBENDQFMEAIUAhoaG",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{679, 0}, {2521, 1577}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "AB029923-7237-4A1D-B985-46BF5B3AACB7",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{715, 753}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaLabelData" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBKwlMZWZ0IEJpZwqGhAJpSQEJkoSEhAxOU0RpY3Rpb25hcnkAlIQBaQKShJaWBk5TRm9udIaShISEBk5TRm9udB6UmSSEBVszNmNdBgAAABoAAAD\/\/i4AUwBGAE4AUwBEAGkAcwBwAGwAYQB5AAAAhAFmGYQBYwCdAZ0AnQCGkoSWlhBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCUhARDQ0BTBACFAIaGhg==",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{-0, 0}, {1679, 1577}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "C919CF7C-0135-45A4-A859-B7F023635CF9",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{1769, 177}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaLabelData" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBKxZMZWZ0IHRvIHJpZ2h0LiBCaWdnZXN0hoQCaUkBFpKEhIQMTlNEaWN0aW9uYXJ5AJSEAWkCkoSWlgZOU0ZvbnSGkoSEhAZOU0ZvbnQelJkkhAVbMzZjXQYAAAAaAAAA\/\/4uAFMARgBOAFMARABpAHMAcABsAGEAeQAAAIQBZhmEAWMAnQGdAJ0AhpKElpYQTlNQYXJhZ3JhcGhTdHlsZYaShISEEE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwQAhQCGhoY=",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{679, 0}, {3159, 1577}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "3FA52C75-5C0D-4513-93A5-5E8B134E95ED",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{0, 1404}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaLabelData" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBKwtMZWZ0IGNvcm5lcoaEAmlJAQuShISEDE5TRGljdGlvbmFyeQCUhAFpApKElpYQTlNQYXJhZ3JhcGhTdHlsZYaShISEEE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwQAhQCGkoSWlgZOU0ZvbnSGkoSEhAZOU0ZvbnQelJkkhAVbMzZjXQYAAAAaAAAA\/\/4uAFMARgBOAFMARABpAHMAcABsAGEAeQAAAIQBZhmEAWMAnwGfAJ8AhoaG",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{0, 899}, {687, 678}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "8A91157E-2E7F-4B80-8FBD-4FFD11C1A3D7",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{1770, 1000}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{-15, 0}, {699, 898}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "95054C25-DC3E-472D-9F97-E5C027D9E2DE",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{3439.9000000000001, 791.8359375}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{2842, 0}, {1173, 1577}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "019AE0BA-43FB-4AB2-AED4-DD95670BD7E8",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{3439.9000000000001, 108.8125}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{2841, -660}, {998, 1443}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "9A42066A-08B6-4816-854C-5A11E51356AD",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{1234, 754}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaLabelData" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBKwxMZWZ0IGJpZ2dlcgqGhAJpSQEMkoSEhAxOU0RpY3Rpb25hcnkAlIQBaQKShJaWBk5TRm9udIaShISEBk5TRm9udB6UmSSEBVszNmNdBgAAABoAAAD\/\/i4AUwBGAE4AUwBEAGkAcwBwAGwAYQB5AAAAhAFmGYQBYwCdAZ0AnQCGkoSWlhBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCUhARDQ0BTBACFAIaGhg==",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{-0, 0}, {2367, 1577}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "3A28E9F0-51B1-43D1-900D-0F2D5E7D47AA",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{2649, 801}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaLabelData" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBKwpSaWdodCBCaWcKhoQCaUkBCpKEhIQMTlNEaWN0aW9uYXJ5AJSEAWkCkoSWlgZOU0ZvbnSGkoSEhAZOU0ZvbnQelJkkhAVbMzZjXQYAAAAaAAAA\/\/4uAFMARgBOAFMARABpAHMAcABsAGEAeQAAAIQBZhmEAWMAnQGdAJ0AhpKElpYQTlNQYXJhZ3JhcGhTdHlsZYaShISEEE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwQAhQCGhoY=",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{1680, 0}, {2150, 1577}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "2992F99E-C9D7-4673-BE22-4870B5399CDF",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        },
+        {
+          "BTTSnapAreaAnimationDuration" : 0.3,
+          "BTTSnapAreaPreviewBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+          "BTTSnapAreaColor" : "96.546618, 175.722392, 211.626543, 104.550003",
+          "BTTSnapAreaFrame" : "{{0, 71.50390625}, {400, 170}}",
+          "BTTSnapAreaHighlightColor" : "58.926786, 82.022224, 125.647417, 56.099998",
+          "BTTSnapAreaPictogramDistanceFromLeft" : 0.1,
+          "BTTSnapAreaPictogramDistanceFromBottom" : 0.1,
+          "BTTSnapAreaPictogramSize" : 0.7,
+          "BTTSnapAreaPreviewFrame" : "{{5, -2}, {679, 898}}",
+          "BTTSnapAreaBorderWidth" : 3,
+          "BTTSnapAreaCornerRadius" : 20,
+          "BTTSnapAreaUUID" : "701F25F5-E1AF-4890-9778-B39FCCC8B33A",
+          "BTTSnapAreaShowsForApps" : [
+
+          ]
+        }
+      ]
+    }
+  ]
+}
