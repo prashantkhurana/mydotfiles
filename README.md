@@ -12,6 +12,8 @@
 
 ## Specific commands
 
- * For gitignore_global
+* For gitignore_global
     * After symlinking to home directory, run : `git config --global core.excludesfile ~/.gitignore_global`
+* `brew bundle dump` is used to get list of all homebrew packages(including casks) 
+* better touch tool does not export the snaps as they are specific to displays. As per the [issue](https://github.com/fifafu/BetterTouchTool/issues/757), they are not deleted though on importing. 
 
