@@ -21,3 +21,5 @@ function grs() {
 
 alias npmrd="npm run dev"
 alias npmrb="npm run build"
+
+PATH=$PATH:~/opt/bin

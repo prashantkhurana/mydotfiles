@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd  ~/
+rclone mount gdrive_encrypt_journal: Journal --allow-other --dir-cache-time 300h --poll-interval 5m --vfs-cache-mode full 

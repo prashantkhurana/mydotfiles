@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd /Users/prashant/Documents/Journal-back-up-local
+rclone copy -v gdrive_encrypt_journal:  . --update --dry-run
+read -p "Press enter to continue"
+rclone copy -v gdrive_encrypt_journal:  . --update
+
