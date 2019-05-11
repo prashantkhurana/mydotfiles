@@ -1,7 +1,7 @@
 #!/bin/bash
 
-cd /Users/prashant/Documents/Journal-back-up-local
-rclone copy -v gdrive_encrypt_journal:  . --update --dry-run
+cd /Users/prashant/Journal
+rclone copy --exclude ".DS_Store" -v gdrive_encrypt_journal:  . --update --dry-run
 read -p "Press enter to continue"
-rclone copy -v gdrive_encrypt_journal:  . --update
+rclone copy --exclude ".DS_Store" -v gdrive_encrypt_journal:  . --update
 
