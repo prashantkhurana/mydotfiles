@@ -21,5 +21,7 @@ function grs() {
 
 alias npmrd="npm run dev"
 alias npmrb="npm run build"
+autoload -Uz zcalc
+
 
 PATH=$PATH:~/opt/bin
